@@ -1,2 +1,2 @@
 # Hackerrank-practice
-Hackerarnk problems solved by me
+Hackerrank problems solved by me
